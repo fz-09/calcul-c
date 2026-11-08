@@ -10,3 +10,8 @@ int main(){
  printf("la somme est :%d",somme);
  return 0;
 }
+<<<<<<< HEAD
+=======
+// modification
+
+>>>>>>> 1800ca4 (Modification mineure sur main.c)
