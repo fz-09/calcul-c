@@ -10,5 +10,3 @@ int main(){
  printf("la somme est :%d",somme);
  return 0;
 }
-
-//modification mineure sur main.c
